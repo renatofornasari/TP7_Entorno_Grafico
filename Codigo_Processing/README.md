@@ -1,6 +1,8 @@
 Uso de la interfaz de Processing:
 
 Una vez conectado el Arduino a la PC, abrimos el programa en Processing y simplemente apretamos el botón de ejecutar el programa como se indica en la imagen.
+
+
 <img width="686" height="597" alt="Image 2" src="https://github.com/user-attachments/assets/b4e95a33-28d2-49eb-9f82-ee258c91bed8" />
 
 Una vez lo ejecutamos, aparece la interfaz gráfica, que luce como en la siguiente imagen:
